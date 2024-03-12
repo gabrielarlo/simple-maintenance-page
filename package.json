@@ -1,0 +1,12 @@
+{
+  "name": "maintenance",
+  "version": "1.0.0",
+  "description": "Global maintenance page catcher",
+  "main": "server.js",
+  "author": "NineCloud",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.3",
+    "path": "^0.12.7"
+  }
+}
